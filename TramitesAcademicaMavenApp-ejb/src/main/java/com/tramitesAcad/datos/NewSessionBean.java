@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tramitesAcad;
+package com.tramitesAcad.datos;
 
 import javax.ejb.Stateless;
 import javax.ejb.LocalBean;
