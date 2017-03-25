@@ -17,7 +17,7 @@ import javax.persistence.PersistenceContext;
 @Stateless
 public class TipoRequisitoFacade extends AbstractFacade<TipoRequisito> implements TipoRequisitoFacadeLocal{
     
-    @PersistenceContext(unitName = "com.prueba_PruebaMaven-ejb_ejb_1.0-SNAPSHOTPU")
+    @PersistenceContext(unitName = "com.tramitesAcad_TramitesAcademicaMavenApp-ejb_ejb_1.0-SNAPSHOTPU")
     private EntityManager em;
 
     @Override
